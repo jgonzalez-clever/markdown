@@ -1,8 +1,5 @@
 
-![](vertopal_67f1a3903e994f9b8d236427a483e8d4/media/image4.png){width="8.604166666666666in"
-height="4.638194444444444in"}
-
- 
+![](media/image4.png)
 
  
 
@@ -734,8 +731,7 @@ Para insertar comandos en este flujo de trabajo, el atacante podría
 crear una solicitud de incorporación de cambios denominada a\"; ls
 \$GITHUB_WORKSPACE\":
 
-![](vertopal_67f1a3903e994f9b8d236427a483e8d4/media/image3.png){width="6.1375in"
-height="0.7222222222222222in"}
+![](media/image3.png)
 
 En este ejemplo, el carácter \" se usa para interrumpir la instrucción
 title=\"\${{ github.event.pull_request.title }}\", lo que permite
@@ -939,8 +935,7 @@ Por ejemplo, puedes usar el registro de auditoría para realizar un
 seguimiento del evento org.update_actions_secret, que realiza un
 seguimiento de los cambios en los secretos de la organización.
 
-![](vertopal_67f1a3903e994f9b8d236427a483e8d4/media/image5.png){width="6.1375in"
-height="2.7083333333333335in"}
+![](media/image5.png)
 
 # **Utilizar las tarjetas de puntuación para asegurar los flujos de trabajo**
 
@@ -1243,11 +1238,11 @@ función de seguridad disponible que no esté en uso actualmente.
 
 ## **Diagrama AS-IS**
 
-## ![](vertopal_67f1a3903e994f9b8d236427a483e8d4/media/image6.png){width="8.16025590551181in" height="3.3884897200349955in"}
+## ![](media/image6.png)
 
 ## 
 
 ## **Diagrama TO-BE**
 
-![](vertopal_67f1a3903e994f9b8d236427a483e8d4/media/image7.png) 
+![](media/image7.png) 
   
