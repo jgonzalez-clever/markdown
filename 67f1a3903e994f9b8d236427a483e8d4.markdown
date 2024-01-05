@@ -1250,3 +1250,4 @@ función de seguridad disponible que no esté en uso actualmente.
 ## **Diagrama TO-BE**
 
 ![](vertopal_67f1a3903e994f9b8d236427a483e8d4/media/image7.png) 
+ 
